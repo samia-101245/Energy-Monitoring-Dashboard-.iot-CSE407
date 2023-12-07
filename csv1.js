@@ -1,6 +1,7 @@
 let fa = [
     // replace the path value with your csv files path
-    { path: "/Result/data1.csv", head: "Day 1 energy datasheet" },
+    { path: "Energy-Monitoring-Dashboard-.iot-CSE407/Result
+/data1.csv", head: "Day 1 energy datasheet" },
     { path: "/Result/data2.csv", head: "Day 2 energy datasheet" },
     { path: "/Result/data3.csv", head: "Day 3 energy datasheet" },
     { path: "/Result/data4.csv", head: "Day 4 energy datasheet" },
